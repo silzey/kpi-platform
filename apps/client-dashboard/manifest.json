@@ -1,0 +1,6 @@
+{
+  "name": "KPI Dashboard",
+  "short_name": "KPI",
+  "start_url": "/",
+  "display": "standalone"
+}
