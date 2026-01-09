@@ -1,0 +1,5 @@
+apps/
+functions/
+shared/
+firebase/
+.github/workflows/
