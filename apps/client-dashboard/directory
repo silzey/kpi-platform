@@ -1,0 +1,11 @@
+kpi-platform/
+├── apps/
+│   ├── landing-page/
+│   ├── client-dashboard/
+│   ├── admin-dashboard/
+│   ├── superadmin-dashboard/
+│   └── embed-widget/
+├── functions/
+├── firebase/
+├── shared/
+└── .github/
